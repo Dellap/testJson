@@ -1,9 +1,9 @@
 {
   "City": [ 
-    { "Huế" },
-    { "Quảng Trị" },
-    { "Đà Nẵng" },
-    {"Quảng Ninh"},
-    {"Nha Trang"},
+    {Name: "Huế" },
+    {Name: "Quảng Trị" },
+    {Name: "Đà Nẵng" },
+    {Name: "Quảng Ninh"},
+    {Name: "Nha Trang"}
   ],
 }
