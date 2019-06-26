@@ -1,13 +1,13 @@
-{
-	"City": [{
-		"name": "Huế"
-	}, {
-		"name": "Đà Nẵng"
-	}, {
-		"name": "Quảng Trị"
-	}, {
-		"name": "Hà Nội"
-	}, {
-		"name": "Sài Gòn"
-	}]
-}
+[{
+		"name": "Hue"
+	},
+	{
+		"name": "Da Nang"
+	},
+	{
+		"name": "Quang Tri"
+	},
+	{
+		"name": "Ha Noi"
+	}
+]
